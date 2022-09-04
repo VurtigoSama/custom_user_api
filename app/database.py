@@ -18,10 +18,10 @@ cloudinary.config(
   api_secret = "KotkJF_mNQQxvQiAQFFF9zFC4a0" 
 )
 
-password = 'c8cf18ef002f10d1cea210d3925b653bacd79dd2643f44677a01e345451612c0'
-user_name = 'pjjwomzqmgrmsq'
-host = 'ec2-44-196-223-128.compute-1.amazonaws.com'
-db_name = 'd9p5qd0d2pit25'
+password = '7665575b28d7b9d9e73adda494e041dc320a1dba7399101339f78ad671bd786a'
+user_name = 'sftdslqwkiyepc'
+host = 'ec2-34-235-31-124.compute-1.amazonaws.com'
+db_name = 'd9idh8kjrr3het'
 SQLALCHEMY_DATABASE_URL =  f"postgresql://{user_name}:{password}@{host}/{db_name}"
 
 
